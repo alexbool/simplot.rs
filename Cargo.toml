@@ -6,12 +6,12 @@ keywords = ["plotting", "gnuplot", "criterion"]
 license = "MIT OR Apache-2.0"
 name = "criterion-plot"
 repository = "https://github.com/japaric/simplot.rs"
-version = "0.1.0"
+version = "0.1.1"
 
 [dependencies]
 byteorder = "1.0"
 cast = "0.1.0"
-itertools = "0.5"
+itertools = "0.6"
 
 [dev-dependencies]
 itertools-num = "0.1"
